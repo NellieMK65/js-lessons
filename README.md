@@ -4,6 +4,10 @@ This repo will cover js lessons indepthly
 
 Topics
 
--   [] Intro to JS
+-   Intro to JS
 
--   [] Data types
+-   Data types
+
+-   Strings
+
+-   Boolean expressions
