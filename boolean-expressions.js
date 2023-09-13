@@ -51,3 +51,10 @@ console.log(23 < 34 && !!'sm');
 
 // 4. OR (||) - double pipe
 console.log(23 < 3 || 23 === 23);
+
+// Ternary operator
+const age = 25;
+
+const canVote = age > 18 && 23 === '23' ? 2 + 3 + '5' : 'Cannot vote';
+
+console.log(canVote);
