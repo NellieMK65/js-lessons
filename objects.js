@@ -56,3 +56,30 @@ console.log(Object.values(car));
 const carCopy = { ...car };
 
 console.log(carCopy);
+
+// Array looping using for loop - (repeating statements until a condition is met)
+// syntax
+const colors = ['red', 'green', 'blue'];
+
+for (let i = 0; i < colors.length; i++) {
+	console.log(colors[i]);
+}
+
+let count = 0;
+
+while (count < colors.length) {
+	console.log(colors[count]);
+	count++;
+}
+
+// for of
+for (const color of colors) {
+	console.log(color);
+}
+
+// Object iteration
+// for in
+for (const key in car) {
+	console.log(key);
+	console.log(car[key]);
+}

@@ -18,4 +18,4 @@ Topics
 
 -   [x] Arrays
 
--   [ ] Objects
+-   [x] Objects
