@@ -16,6 +16,6 @@ Topics
 
 -   [x] Functions
 
--   [ ] Arrays
+-   [x] Arrays
 
 -   [ ] Objects
